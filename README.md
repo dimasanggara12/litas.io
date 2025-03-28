@@ -29,4 +29,3 @@ node main.js
 6. Input Apikey From 2Captcha
 7. DONE
 
-![](litas.jpg)
