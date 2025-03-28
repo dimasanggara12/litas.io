@@ -1,4 +1,4 @@
-# SignUp Litas
+# Signup Litas
 * Here:  https://wallet.litas.io/invite/bangzx
 
 ## CHANNEL TELEGRAM JOIN HERE
@@ -6,7 +6,7 @@
 
 ## Create Apikey on 2Captcha and deposit to create APIKEY
 * Here: https://2captcha.com
-* 
+
 ## Installation Script
 1. Clone the repository:
 ```bash
@@ -29,3 +29,4 @@ node main.js
 6. Input Apikey From 2Captcha
 7. DONE
 
+![](litasbot.jpg)
