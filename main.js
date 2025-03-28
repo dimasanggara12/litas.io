@@ -19,7 +19,7 @@ console.log(chalk.blueBright(`
 `));
 console.log(chalk.red('ＢＯＴ ') + chalk.yellow('ＡＵＴＯ ') + chalk.green('LITAS.IO'));
 console.log(chalk.yellow('================================'));
-console.log(chalk.cyan('Telegram: https://t.me/airdropdiggerid'));
+console.log(chalk.cyan('Telegram: https://t.me/airdropfetchofficial'));
 console.log(chalk.yellow('================================\n'));
 
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
